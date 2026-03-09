@@ -10,7 +10,7 @@
   "keep_vars": true,
   "routes": [
     {
-      "pattern": "tan-123.icu",
+      "pattern": "blog.tan-123.icu",
       "custom_domain": true,
     },
   ],
