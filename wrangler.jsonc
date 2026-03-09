@@ -10,7 +10,7 @@
   "keep_vars": true,
   "routes": [
     {
-      "pattern": "DOMAIN_PLACEHOLDER",
+      "pattern": "tan-123.icu",
       "custom_domain": true,
     },
   ],
